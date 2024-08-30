@@ -3,10 +3,8 @@
 ```
 APIClient_CSharp.cs = Code example for CSharp
 APIClient_VBNET.vb = Code example for VB.NET
-F# currently has no source but will work.
 ```
-
-Please use .NET 8 to create Service modules.
+F# currently has no source but will work. Please use .NET 8 to create Service modules.
 
 Other languages can be used as well as long as:
 1. They can parse command line arguments

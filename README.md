@@ -3,7 +3,7 @@
 ```
 APIClient_CSharp.cs = Code example for CSharp
 APIClient_VBNET.vb = Code example for VB.NET
-F# is currently unsupported but will work.
+F# currently has no source but will work.
 ```
 
 Please use .NET 8 to create Service modules.

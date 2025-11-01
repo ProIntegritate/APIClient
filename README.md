@@ -3,6 +3,7 @@
 ```
 APIClient_CSharp.cs = Code example for CSharp
 APIClient_VBNET.vb = Code example for VB.NET
+APIClient_Python.py = Code example for Python3
 ```
 F# currently has no source but will work. Please use .NET 8 to create Service modules.
 
